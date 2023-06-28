@@ -22,4 +22,4 @@ Cherry blue switches
 
 # NOTES
 The top and bottom plates are 2mm thick. The perforation on the bottom plate is just for saving some material. The filament used is CR-PLA, and it's all printed on Ender 3 V2. And the holes are for M2.5 screws.
-
+The right part is the same but instead of a display it is equipted with two encoders. Holes for the encoders are 6mm in diameter.
