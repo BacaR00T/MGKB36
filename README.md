@@ -4,6 +4,9 @@ Just another corne inspired keyboard, but using only one RP2040 MCU
 # BUILD
 <img src="https://github.com/BacaR00T/mgkb36/assets/81833517/fed0c58b-1d5d-4133-b26f-df94a5fcf9e9" width="300">
 <img src="https://github.com/BacaR00T/mgkb36/assets/81833517/58c78a78-24ce-4374-9e17-2aa54953b698" width="300">
+<br>
+<img src="https://github.com/BacaR00T/MGKB36/assets/81833517/dacf33c9-f65b-4ca6-93cb-a7100eaf0960" width="300">
+<img src="https://github.com/BacaR00T/MGKB36/assets/81833517/16237b2f-5bbe-45b8-984c-c1dbe8b4db09" width="300">
 
 # CODE
 Will be added soon..
