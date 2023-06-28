@@ -19,6 +19,10 @@ Cherry blue switches
 <a href="https://www.aliexpress.com/item/32777216785.html?spm=a2g0o.order_detail.order_detail_item.5.55e4f19cxqMRhA">
 0.91" 128x32 OLED
 </a>
+<br>
+<a href="https://www.aliexpress.com/item/10000056483250.html?spm=a2g0o.order_list.order_list_main.17.21ef1802dLeoC2">
+Encoders 20mm shaft
+</a>
 
 # NOTES
 The top and bottom plates are 2mm thick. The perforation on the bottom plate is just for saving some material. The filament used is CR-PLA, and it's all printed on Ender 3 V2. And the holes are for M2.5 screws.
