@@ -29,8 +29,8 @@ Cherry blue switches
 Encoders 20mm shaft
 </a>
 <br>
-<a href="https://www.thingiverse.com/thing:4286310">
-Knobs (I've make them smaller)
+<a href="https://www.thingiverse.com/thing:6103821">
+Knobs 
 </a>
 <br>
 <a href="https://www.aliexpress.com/item/1005003109554820.html?spm=a2g0o.productlist.main.1.4a303312cIzIiC&algo_pvid=cc51de7e-e9e3-40d3-9bc0-77b9aee76204&algo_exp_id=cc51de7e-e9e3-40d3-9bc0-77b9aee76204-0&pdp_npi=3%40dis%21CZK%219.39%219.39%21%21%21%21%21%40212243c016882307527653235d074e%2112000024139079608%21sea%21CZ%21745647154&curPageLogUid=0Ai7xreXvyzb">
