@@ -9,9 +9,9 @@ Just another corne inspired keyboard, but using only one RP2040 MCU
 <img src="https://github.com/BacaR00T/MGKB36/assets/81833517/16237b2f-5bbe-45b8-984c-c1dbe8b4db09" width="300">
 
 # CODE
-(```) 
+``` 
 Will be added soon..
-(```) 
+``` 
 # PARTS
 <a href="https://www.aliexpress.com/item/1005003928558306.html?spm=a2g0o.order_detail.order_detail_item.3.41e56368eyjngF">
 USB-C RP2040 MCU
