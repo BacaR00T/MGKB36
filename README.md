@@ -34,4 +34,4 @@ Knobs
 
 # NOTES
 The top and bottom plates are 2mm thick. The perforation on the bottom plate is just for saving some material. The filament used is CR-PLA, and it's all printed on Ender 3 V2. And the holes are for M2.5 screws.
-The right half is the same but instead of a display it's equipted with two encoders. Holes for them are 7mm in diameter.
+The right half is the same but instead of a display it's equipted with two encoders. Holes for them are 7mm in diameter. The height for the spacers is 9mm to work just fine with MX style switches.
