@@ -29,8 +29,8 @@ Cherry blue switches
 Encoders 20mm shaft
 </a>
 <br>
-<a href="">
-Knobs
+<a href="https://www.thingiverse.com/thing:4286310">
+Knobs (I've make them smaller)
 </a>
 
 # NOTES
