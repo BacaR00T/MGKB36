@@ -1,5 +1,9 @@
 # MGKB36
-Just another corne inspired keyboard, but using only one RP2040 MCU
+Just another 
+<a href="https://github.com/foostan/crkbd">
+corne
+</a>
+inspired keyboard, but using only one RP2040 MCU
 
 # BUILD
 <img src="https://github.com/BacaR00T/mgkb36/assets/81833517/fed0c58b-1d5d-4133-b26f-df94a5fcf9e9" width="300">
