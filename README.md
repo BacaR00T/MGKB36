@@ -30,4 +30,4 @@ Knobs
 </a>
 
 # NOTES
-Display and encoders in progress...
+Display and encoders in progress
