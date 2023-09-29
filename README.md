@@ -1,21 +1,8 @@
 # MGKB36
-Just another 
-<a href="https://github.com/foostan/crkbd">
-corne
-</a>
-inspired keyboard, but using only one RP2040 MCU
-
+Just another "split" ergo keeb with ghetto wiring
 # BUILD
-<img src="https://github.com/BacaR00T/mgkb36/assets/81833517/fed0c58b-1d5d-4133-b26f-df94a5fcf9e9" width="300">
-<img src="https://github.com/BacaR00T/mgkb36/assets/81833517/58c78a78-24ce-4374-9e17-2aa54953b698" width="300">
-<br>
-<img src="https://github.com/BacaR00T/MGKB36/assets/81833517/dacf33c9-f65b-4ca6-93cb-a7100eaf0960" width="300">
-<img src="https://github.com/BacaR00T/MGKB36/assets/81833517/16237b2f-5bbe-45b8-984c-c1dbe8b4db09" width="300">
+<img src="https://github.com/BacaR00T/MGKB36_handwired/assets/81833517/a7f796cb-0799-4e79-b76a-3b61f06370ea" width="300">
 
-# CODE
-``` 
-Will be added soon..
-``` 
 # PARTS
 <a href="https://www.aliexpress.com/item/1005003928558306.html?spm=a2g0o.order_detail.order_detail_item.3.41e56368eyjngF">
 USB-C RP2040 MCU
@@ -29,6 +16,7 @@ Cherry blue switches
 0.91" 128x32 OLED
 </a>
 <br>
+
 <a href="https://www.aliexpress.com/item/10000056483250.html?spm=a2g0o.order_list.order_list_main.17.21ef1802dLeoC2">
 Encoders 20mm shaft
 </a>
