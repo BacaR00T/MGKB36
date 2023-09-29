@@ -1,5 +1,5 @@
 # MGKB36
-Just another "split" ergo keeb with ghetto wiring
+Just another "split" ergo keeb with ghetto wiring and KMK firmware
 # BUILD
 <img src="https://github.com/BacaR00T/MGKB36_handwired/assets/81833517/a7f796cb-0799-4e79-b76a-3b61f06370ea" width="300">
 
