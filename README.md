@@ -1,8 +1,8 @@
+
 # MGKB36
 Just another "split" ergo keeb with ghetto wiring and KMK firmware
 # BUILD
-<img src="https://github.com/BacaR00T/MGKB36_handwired/assets/81833517/a7f796cb-0799-4e79-b76a-3b61f06370ea" width="300">
-
+![mgkb36_handwired](https://github.com/BacaR00T/MGKB36_handwired/assets/81833517/9ac05687-49d0-4a82-b9d3-52e82eef6875)
 # PARTS
 <a href="https://www.aliexpress.com/item/1005003928558306.html?spm=a2g0o.order_detail.order_detail_item.3.41e56368eyjngF">
 USB-C RP2040 MCU
