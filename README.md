@@ -1,6 +1,6 @@
 
 # MGKB36
-Just another "split" ergo keeb with ghetto wiring and KMK firmware
+Just another "split" ergo keeb with ghetto wiring and KMK firmware. Basically first step in DIY keebs, and concept for [MGKB48](https://github.com/BacaR00T/MGKB48)
 # BUILD
 ![mgkb36_handwired](https://github.com/BacaR00T/MGKB36_handwired/assets/81833517/9ac05687-49d0-4a82-b9d3-52e82eef6875)
 # PARTS
@@ -30,4 +30,4 @@ Knobs
 </a>
 
 # NOTES
-Display and encoders in progress
+Display and encoders in progress since I suck at python..
